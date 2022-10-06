@@ -1,13 +1,13 @@
 # Basic Pizza Dough
 
 ## Ingredients
-1 package active dry yeast
-3/8 cup warm water, 105 - 115 F
-1 1/3 cup warm water
-1/8 cup sugar
-1/2 tablespoon salt
-1 1/2 tablespoon olive oil
-4 to 5 cups flour
+- 1 package active dry yeast
+- 3/8 cup warm water, 105 - 115 F
+- 1 1/3 cup warm water
+- 1/8 cup sugar
+- 1/2 tablespoon salt
+- 1 1/2 tablespoon olive oil
+- 4 to 5 cups flour
 
 ## Instructions
 - Disolve yeast into 3/8 cup warm water in a large bowl. Let sit for about 5 minutes
