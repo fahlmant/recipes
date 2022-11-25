@@ -12,7 +12,7 @@
 
 ## Instructions
 - Preheat oven to 375 F
-- Add sugar, butter, water and raisins to saucepan. Boil for 5-6 minutes
-- After boiled, take a small portion of the mixture out and let cool. Add beaten eggs to the cooled mixture so they don't cool. 
+- Add sugar, butter, water to saucepan. Once boiling, add raisins. Boil for 5-6 minutes, stirring occasionally.
+- After boiled, take a small portion of the mixture out and let cool. Add beaten eggs to the cooled mixture so they don't cook. 
 - Add back mixture with eggs, along with walnuts and a dash of salt. Mix together
 - Pour mixture into unbaked pie crust and bake at 375 for 23-30 minutes
