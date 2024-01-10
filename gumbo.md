@@ -6,12 +6,12 @@
 - 1/2 bell pepper
 - 1-2 jalapeno
 - 4-6 cloves of garlic
-- 1 large chicken breasts, or 2-3 chicken thighs
-- Andouille Sausage
+- ~~1 large chicken breasts, or 2-3 chicken thighs~~ sea food
+- ~~Andouille Sausage~~
 - 1/2 cup vegetable oil
 - 1/2 cup flour
 - 1 cup amber-style beer
-- 1 quart chicken stock
+- 1 quart ~~chicken~~ seafood stock
 - 3-4 bayleaves
 - 1 teaspoon thyme
 - Green onions for garnish
@@ -19,9 +19,9 @@
  
 # Instructions
 - Dice all vegetables before continuing
-- Chop up andouille sausage (just a bit more than the chicken)
+- Chop up ~~andouille sausage~~ seafood (just a bit more ~~than the chicken~~)
 - Mince garlic
-- Put chicken in cast iron skillet. Olive oil, salt and pepper on both sides. Turn heat to medium. Goal is to sear both sides, so don't forget to turn over at some point.
+- Put ~~chicken~~ sea food in cast iron skillet. Olive oil, salt and pepper on both sides. Turn heat to medium. Goal is to sear both sides, so don't forget to turn over at some point.
 
 - Oil into dutch oven, turn on heat and wait until starting to smoke,
 - Whisk flour into oil. 
@@ -30,15 +30,15 @@
 
 - Once roux is done, add the vegetables immediately, except garlic. Add a pinch of salt and stir all together.
 
-- Check chicken, put a splash of beer to deglaze.
+- Check ~~chicken~~ seafood, put a splash of beer to deglaze.
 
 - Now that veggies have calmed down, add garlic. Stir for another minute or until onions are translucent.
 
 - Add cup of beer. Stir vigorously. 
 
-- Slowly pour in quart of chicken stock and stir at the same time. 
+- Slowly pour in quart of ~~chicken~~ stock and stir at the same time. 
 
-- Add chicken. Add bay leaves, thyme, pinch of salt, 30 cracks of fresh pepper (yes thirty, it's not a typo). Add andouille. 
+- Add ~~chicken~~ sea food. Add bay leaves, thyme, pinch of salt, 30 cracks of fresh pepper (yes thirty). And andouille. 
 
 - Stir well, put heat to medium high until simmering. Then turn heat low and put lid on. Stir every 10-15 minutes. 
 
